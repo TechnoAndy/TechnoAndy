@@ -4,4 +4,4 @@
 
 Hi 👋
 
-My name is Andrea, I am currently studying full stack web development at Microverse.
+My name is Andrea, I am currently studying Full-Stack web development at Microverse.
