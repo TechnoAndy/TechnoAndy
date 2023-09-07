@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47176316/194316074-d98dacdd-de23-4a15-afa7-4ade9baf2edf.png"/>
+  <img src="![image](https://github.com/TechnoAndy/TechnoAndy/assets/47176316/a8fafe9d-940d-4d6f-8664-9fb56e7ed5b9)
+"/>
 </p>
 
 
-<p align="center"> My name is Andrea, and I am currently studying Full-Stack web development at Microverse.</p>
+<p align="center"> My name is Andrea, and I am a passionate Full-Stack web developer.</p>
 
 <p align="center"> Languages and Tools </p>
 <p align="center"><code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
