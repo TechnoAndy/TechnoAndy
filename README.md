@@ -3,7 +3,7 @@
 </p>
 
 
-<p align="center"> My name is Andrea, I am currently studying Full-Stack web development at Microverse.</p>
+<p align="center"> My name is Andrea, and I am currently studying Full-Stack web development at Microverse.</p>
 
 <p align="center"> Languages and Tools </p>
 <p align="center"><code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
