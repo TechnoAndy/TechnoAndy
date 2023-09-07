@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="![image](https://github.com/TechnoAndy/TechnoAndy/assets/47176316/a8fafe9d-940d-4d6f-8664-9fb56e7ed5b9)
-"/>
-</p>
+  <img src="https://github.com/TechnoAndy/TechnoAndy/assets/47176316/606c0f50-0cf0-4f9c-96cf-7553524daec5"></p>
+
 
 
 <p align="center"> My name is Andrea, and I am a passionate Full-Stack web developer.</p>
