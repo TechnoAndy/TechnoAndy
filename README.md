@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TechnoAndy/TechnoAndy/assets/47176316/606c0f50-0cf0-4f9c-96cf-7553524daec5"></p>
+  <img width="50%" src="https://github.com/TechnoAndy/TechnoAndy/assets/47176316/606c0f50-0cf0-4f9c-96cf-7553524daec5"></p>
 
 
 
